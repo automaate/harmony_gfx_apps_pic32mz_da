@@ -21,23 +21,24 @@ This demonstration provides a starting point to integrate a third-party graphics
 
 ![](./../docs/html/blank_quickstart.png)
 
-* [Legato Adventure](./legato_adventure/readme.md)
-
-This application demonstrates parallax and sprite animation capabilities using the graphics library.
-
-![](./../docs/html/legato_adventure.png)
-
 * [Legato Benchmark](./legato_benchmark/readme.md)
 
 This application shows the frame update rates for various operations in the Legato Graphics Library, including string rendering, area fills and image decode and rendering. 
 
 ![](./../docs/html/legato_benchmark.png)
 
-* [Legato Flash](./legato_flash/readme.md)
+* [Legato Climate Control](./legato_climate_control/readme.md)
 
-The legato_flash demonstration application serves as an external memory programmer to flash the off-chip non-volatile memory.
+This demonstration emulates an interactive, touch-enabled vehicle climate control User Interface (UI).
 
-![](./../docs/html/legato_flash.png)
+![](./../docs/html/legato_climate_control.png)
+
+* [Legato Dashboard](./legato_dashboard/readme.md)
+
+This application presents a vehicle dashboard User Interface (UI). 
+
+![](./../docs/html/legato_dashboard.png)
+
 
 * [Legato Quickstart](./legato_quickstart/readme.md)
 
