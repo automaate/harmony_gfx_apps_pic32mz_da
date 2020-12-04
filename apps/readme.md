@@ -1,0 +1,47 @@
+---
+title: Example Applications
+has_children: true
+has_toc: false
+nav_order: 2
+
+family: SAME70
+market:
+  - graphics
+---
+
+# Example Applications
+
+The following applications are provided to demonstrate both basic and advanced Graphics capabilities of the SAM E70 Family.
+
+## Legato Library Examples 
+
+* [Blank Quickstart](./blank_quickstart/readme.md)
+
+This demonstration provides a starting point to integrate a third-party graphics library with MPLAB Harmony Graphics Suite.
+
+![](./../docs/html/blank_quickstart.png)
+
+* [Legato Adventure](./legato_adventure/readme.md)
+
+This application demonstrates parallax and sprite animation capabilities using the graphics library.
+
+![](./../docs/html/legato_adventure.png)
+
+* [Legato Benchmark](./legato_benchmark/readme.md)
+
+This application shows the frame update rates for various operations in the Legato Graphics Library, including string rendering, area fills and image decode and rendering. 
+
+![](./../docs/html/legato_benchmark.png)
+
+* [Legato Flash](./legato_flash/readme.md)
+
+The legato_flash demonstration application serves as an external memory programmer to flash the off-chip non-volatile memory.
+
+![](./../docs/html/legato_flash.png)
+
+* [Legato Quickstart](./legato_quickstart/readme.md)
+
+This demonstration provides a touch-enabled starting point for the legato graphics library.
+
+![](./../docs/html/legato_quickstart.png)
+
